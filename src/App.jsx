@@ -8,7 +8,7 @@ import './index.css';
 function App() {
   return (
   
-    <Router basename={process.env.NETLIFY ? '/' : '/chariot-agricole'}>
+   <Router basename={import.meta.env.VITE_NETLIFY === 'true' ? '/' : '/chariot-agricole'}>
       <div className="app-container">
         {/* La Navbar de l'exploitation visible partout */}
         <Navbar />
