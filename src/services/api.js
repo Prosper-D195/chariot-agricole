@@ -4,7 +4,8 @@
  */
 export const fetchProducts = async () => {
   try {
-    const response = await fetch('/products.json');
+    // import.meta.env.BASE_URL s'adaptera automatiquement à '/chariot-agricole/
+    const response = await fetch(`${import.meta.env.BASE_URL}products.json`);
     if (!response.ok) {
       throw new Error('Erreur lors de la récupération des produits agricoles');
     }
