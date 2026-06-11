@@ -7,8 +7,8 @@ import './index.css';
 
 function App() {
   return (
-    // ⚠️ Le basename est obligatoire ici pour que GitHub Pages comprenne le chemin des pages
-    <Router basename="/chariot-agricole">
+  
+    <Router basename={process.env.NETLIFY ? '/' : '/chariot-agricole'}>
       <div className="app-container">
         {/* La Navbar de l'exploitation visible partout */}
         <Navbar />
