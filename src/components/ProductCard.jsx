@@ -21,7 +21,10 @@ function ProductCard({ product }) {
   return (
     <div className="product-card">
       <div className="product-image-container">
-        <img src={product.image} alt={product.title} className="product-image" />
+        <img 
+  src={`${import.meta.env.BASE_URL}${product.image.replace(/^\//, '')}`} 
+  alt={product.title} 
+/>
       </div>
       <div className="product-info">
         <span className="product-category">{product.category}</span>
