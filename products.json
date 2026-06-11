@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "title": "Papaye Calina IPB9 (Premium)",
+    "price": 1200,
+    "description": "Papaye d'exception à chair ferme, très sucrée et parfumée. Récoltée à maturité optimale sur l'exploitation.",
+    "category": "Fruits d'Excellence",
+    "image": "/images/papaye-calina.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mangue Amélie",
+    "price": 800,
+    "description": "Mangues douces, juteuses et sans fibres, idéales pour les jus ou la consommation fraîche.",
+    "category": "Fruits d'Excellence",
+    "image": "/images/mangue-amelie.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Avocat Tropical Géant",
+    "price": 1500,
+    "description": "Avocats riches, crémeux et denses en beurre. Calibre idéal pour de grandes salades fraîches.",
+    "category": "Fruits d'Excellence",
+    "image": "/images/avocat-tropical.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Citron Vert Sans Pépins",
+    "price": 1000,
+    "description": "Citrons intensément juteux et parfumés, parfaits pour rehausser vos plats et boissons.",
+    "category": "Fruits d'Excellence",
+    "image": "/images/citron-vert.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Raisin de Table (Grappe)",
+    "price": 2500,
+    "description": "Grappes de vigne sélectionnées à la main, grains croquants et naturellement sucrés.",
+    "category": "Fruits d'Excellence",
+    "image": "/images/raisin-table.jpg"
+  },
+
+  {
+    "id": 6,
+    "title": "Tomate Hors-Sol (Le kg)",
+    "price": 900,
+    "description": "Tomates bien rouges, fermes et calibrées, cultivées sous serre protectrice pour une qualité constante.",
+    "category": "Cultures Maraîchères",
+    "image": "/images/tomate-hors-sol.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Piment Antillais Frais",
+    "price": 1500,
+    "description": "Piment fort et extrêmement aromatique, cueilli le matin même de la préparation de votre commande.",
+    "category": "Cultures Maraîchères",
+    "image": "/images/piment-antillais.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Poivron Quadricolore (Lot de 4)",
+    "price": 1200,
+    "description": "Assortiment de quatre poivrons frais de couleurs différentes : vert, jaune, orange et rouge.",
+    "category": "Cultures Maraîchères",
+    "image": "/images/poivrons.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Carottes Sablées de la Ferme",
+    "price": 700,
+    "description": "Carottes tendres, sucrées et riches en nutriments, cultivées dans un sol sain et meuble.",
+    "category": "Cultures Maraîchères",
+    "image": "/images/carottes.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Oignons Jaunes (Le sac de 5kg)",
+    "price": 3500,
+    "description": "Oignons de garde séchés de manière optimale, parfaits pour servir de base à toutes vos préparations.",
+    "category": "Cultures Maraîchères",
+    "image": "/images/oignons.jpg"
+  },
+
+  {
+    "id": 11,
+    "title": "Poulet de Chair Prêt-à-cuire",
+    "price": 3000,
+    "description": "Poulet élevé au grain dans nos poulaillers modernes, nettoyé et conditionné sous chaîne du froid.",
+    "category": "Élevage & Aviculture",
+    "image": "/images/poulet-chair.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Alvéole d'Œufs Frais (x30)",
+    "price": 2200,
+    "description": "Œufs du jour calibrés gros, pondus par des poules nourries avec une alimentation saine et contrôlée.",
+    "category": "Élevage & Aviculture",
+    "image": "/images/alveole-oeufs.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Viande de Porc (Côtelettes au kg)",
+    "price": 2800,
+    "description": "Morceaux de premier choix issus de notre porcherie moderne respectant des normes d'hygiène strictes.",
+    "category": "Élevage & Aviculture",
+    "image": "/images/viande-porc.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Pintade Fermière Vivante",
+    "price": 4500,
+    "description": "Pintade robuste élevée en plein air, offrant une viande ferme et texturée au goût authentique.",
+    "category": "Élevage & Aviculture",
+    "image": "/images/pintade.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Engrais Organique Enrichi",
+    "price": 5000,
+    "description": "Sac de 25kg de fientes de volaille traitées, séchées et prêtes à l'emploi pour fertiliser vos sols.",
+    "category": "Élevage & Aviculture",
+    "image": "/images/engrais-fiente.jpg"
+  },
+
+  {
+    "id": 16,
+    "title": "Pur Jus de Papaye-Mangue (1L)",
+    "price": 1500,
+    "description": "Cocktail 100% pur jus pressé à froid à partir des fruits de notre verger, sans eau ajoutée ni conservateurs.",
+    "category": "Produits Transformés",
+    "image": "/images/jus-papaye-mangue.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Confiture Artisanale de Mangue",
+    "price": 1800,
+    "description": "Préparée à l'ancienne dans des chaudrons en cuivre avec les fruits mûrs de notre récolte.",
+    "category": "Produits Transformés",
+    "image": "/images/confiture-mangue.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Chips de Banane Plantain",
+    "price": 500,
+    "description": "Sachet de chips croustillantes et dorées, délicatement salées, idéales pour un apéritif ou un goûter.",
+    "category": "Produits Transformés",
+    "image": "/images/chips-plantain.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Pâte de Piment Fort en Pot",
+    "price": 1200,
+    "description": "Piments sélectionnés, écrasés et confits à l'huile avec un assortiment d'épices de la ferme.",
+    "category": "Produits Transformés",
+    "image": "/images/puree-piment.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Fruits Séchés Assortis (250g)",
+    "price": 2000,
+    "description": "Mélange d'énergie saine contenant des morceaux séchés de papaye, de mangue et de banane.",
+    "category": "Produits Transformés",
+    "image": "/images/fruits-seches.jpg"
+  }
+]
