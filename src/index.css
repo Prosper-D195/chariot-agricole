@@ -86,6 +86,22 @@ body {
   margin-bottom: 2rem;
   color: var(--text-dark);
 }
+/* --- Ajustement parfait des images de la boutique --- */
+.product-image-container {
+  width: 100%;
+  height: 220px; 
+  overflow: hidden;    
+  border-top-left-radius: 8px;   
+  border-top-right-radius: 8px;
+}
+
+.product-image-container img {
+  width: 100%;
+  height: 100%;       
+  object-fit: cover;   
+  display: block;    
+}
+
 
 /* Grid CSS */
 .products-grid {
